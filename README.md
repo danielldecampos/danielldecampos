@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/Daniel28Dc">
+<a href="https://twitter.com/daniel28dc">
   <img align="left" alt="Dani Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/danieldcm/">
@@ -9,7 +9,7 @@
   <img align="left" alt="Dani Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=dani-geek.dani-geek)
+![](https://visitor-badge.glitch.me/badge?page_id=eldanigeek.eldanigeek)
 
 <br />
 
@@ -41,7 +41,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 📈 My github stats
 
 <a> 
-  <img align="left" alt="dani-geek" src="https://github-readme-stats.vercel.app/api?username=dani-geek&show_icons=true&theme=gotham" />
+  <img align="left" alt="eldanigeek" src="https://github-readme-stats.vercel.app/api?username=eldanigeek&show_icons=true&theme=gotham" />
 </a>
 <a>
   <img align="left" alt="GIF" src="https://res.cloudinary.com/practicaldev/image/fetch/s--e3MSa2AC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/39b93b1vq2xalsa0uu2s.gif" width="180" height="190" />
