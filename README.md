@@ -6,7 +6,7 @@
   <img align="left" alt="Dani LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/danieldc2809">
-  <img align="left" alt="Dani Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Dani Spotify" width="22px" src="https://user-images.githubusercontent.com/33750251/59486049-ec63fa80-8e6f-11e9-8d17-9a31324a63e8.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=eldanigeek.eldanigeek)
