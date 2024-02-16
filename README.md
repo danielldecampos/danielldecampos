@@ -3,6 +3,8 @@
   <img align="left" alt="Dani LinkedIN" width="22px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />
 </a>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=ddecampos&countColor=%237B1E7A)
+
 <br />
 
 
