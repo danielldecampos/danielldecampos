@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/danieldek/">
-  <img align="left" alt="Dani LinkedIN" width="22px" src="https://www.svgrepo.com/show/448234/linkedin.svg" />
+  <img align="left" alt="Dani LinkedIN" width="22px" src="https://www.svgrepo.com/show/475661/linkedin-color.svg" />
 </a>
 
 <br />
