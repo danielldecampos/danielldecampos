@@ -1,15 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/daniel28dc">
-  <img align="left" alt="Dani Twitter | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/danieldcm/">
+<a href="https://www.linkedin.com/in/danieldek/">
   <img align="left" alt="Dani LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/danieldc2809">
-  <img align="left" alt="Dani Spotify" width="22px" src="https://user-images.githubusercontent.com/33750251/59486049-ec63fa80-8e6f-11e9-8d17-9a31324a63e8.png" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=eldanigeek.eldanigeek)
 
 <br />
 
