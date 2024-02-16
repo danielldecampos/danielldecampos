@@ -8,13 +8,10 @@
 <br />
 
 
-Hi, i'm [Daniel De Campos](https://eldanigeek.netlify.app/), a passionate self-taught full stack web developer and a freelance system engineer from Venezuela. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things that i build.
+Hi, i'm [Daniel De Campos](https://eldanigeek.netlify.app/), a system DevOps engineer from Venezuela. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things that i build.
 
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-
-- 💼 Any remote work? do reach, [email](mailto:danieldc2809@gmail.com)
+- 💼 Any remote work? do reach, [email](mailto:danieldecampos.v@gmail.com)
 - 💬 Ask me about anything, i am happy to help
 
 
