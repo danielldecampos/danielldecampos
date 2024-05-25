@@ -8,12 +8,7 @@
 <br />
 
 
-Hi, i'm [Daniel De Campos](https://eldanigeek.netlify.app/), a System Engineer from Venezuela. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things that i build.
-
-
-- 💼 Any remote work? do reach, [email](mailto:danieldecampos.v@gmail.com)
-- 💬 Ask me about anything, i am happy to help
-
+Hi, i'm [Daniel De Campos](https://eldanigeek.netlify.app/), a simple computer guy.
 
   
 **languages and tools:**  
