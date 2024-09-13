@@ -8,7 +8,7 @@
 <br />
 
 
-Hi, i'm [Daniel De Campos](https://eldanigeek.netlify.app/), a simple computer guy.
+I'm [Daniel De Campos](https://eldanigeek.netlify.app/), a simple computer guy with solid knowlede about DevOps and many other nice things. Continuous learning every day.
 
   
 **languages and tools:**  
