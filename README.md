@@ -8,7 +8,7 @@
 <br />
 
 
-I'm [Daniel De Campos](https://eldanigeek.netlify.app/), a simple computer guy.
+I'm a simple computer guy. Check my [web site](https://ddecampos.netlify.app/)
 
   
 **languages and tools:**  
