@@ -8,7 +8,7 @@
 <br />
 
 
-I'm a simple computer guy. Check my [web site](https://ddecampos.netlify.app/).
+Check my [web site](https://ddecampos.netlify.app/).
 
   
 **languages and tools:**  
