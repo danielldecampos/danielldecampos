@@ -8,7 +8,7 @@
 <br />
 
 
-Check my [web site](https://ddecampos.netlify.app/).
+Check my [web site](https://danieldecampos.netlify.app/).
 
   
 **languages and tools:**  
